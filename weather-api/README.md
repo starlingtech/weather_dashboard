@@ -78,6 +78,6 @@ Once the API is running, you can access it from your web browser or any HTTP cli
 Example query:
 
 ```
-http://localhost:5000/weather?location=London&type=temperature&start_date=2021-01-01&end_date=2021-01-31
+http://localhost:5000/weather?location=London&type=temp&start_date=2021-01-01&end_date=2021-01-31
 ```
 
